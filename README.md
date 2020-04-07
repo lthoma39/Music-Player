@@ -1,6 +1,8 @@
 ## Music-Player
 Created a service for playing music
 
+http://g.recordit.co/ODpyT6w4oz.gif
+
 ## Project Description 
 Two Android apps. The first app, named ClipServer, stores a number of audio clips,
 such as songs or other recordings. The clips are numbered 1 through n, where n is the total number of clips,
