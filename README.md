@@ -1,5 +1,5 @@
 ## Music-Player
-Android app: Created a service and an app for playing music
+Android app: Created a service and an app for playing music lkfjlnfkjnjx
 
 <img src=http://g.recordit.co/ODpyT6w4oz.gif width=200><br>
 
