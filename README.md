@@ -1,7 +1,8 @@
 ## Music-Player
-Created a service for playing music
+(Android app) Created a service and an app for playing music
 
-http://g.recordit.co/ODpyT6w4oz.gif
+<img src=http://g.recordit.co/ODpyT6w4oz.gif width=200><br>
+
 
 ## Project Description 
 Two Android apps. The first app, named ClipServer, stores a number of audio clips,
